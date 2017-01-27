@@ -1,0 +1,22 @@
+{
+  "name": "arc-tickles",
+  "version": "1.0.0",
+  "description": "Used to parse my md to html and view articles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gavin Bingham",
+  "license": "ISC",
+  "dependencies": {
+    "basic-auth": "^1.0.4",
+    "chokidar": "^1.5.2",
+    "express": "^4.13.4",
+    "marked": "^0.3.5",
+    "mime-types": "^2.1.11",
+    "passport": "latest",
+    "rimraf": "^2.5.2",
+    "serve-index": "^1.7.3",
+    "serve-static": "^1.11.1"
+  }
+}
